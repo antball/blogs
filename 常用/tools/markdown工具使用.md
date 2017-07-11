@@ -5,7 +5,9 @@
 ### a. sublime text3 
 
 >   [安装及破解](http://blog.csdn.net/k_men/article/details/54980949/)
+>   
 >   [sublime text3设置默认编码格式为UTF-8](http://blog.csdn.net/kongguyoulan523/article/details/51145727)
+>   
 >   [sublime text 3中文乱码问题解决办法](http://blog.csdn.net/qq_16255321/article/details/46459625)
 
 #### 设置语法高亮和mathjax支持 
