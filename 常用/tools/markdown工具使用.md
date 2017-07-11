@@ -1,6 +1,6 @@
 # markdown 工具使用
 
-## 1. windown系统md工具test{#0}
+## 1. windown系统md工具test  {#1}
 
 ### a. sublime text3 
 
@@ -48,10 +48,10 @@
 [语法](http://blog.leanote.com/post/freewalk/Markdown-语法手册/)
 
 - aaa
-    - bbb
-    - ccc
+    1. bbb
+    2. ccc
         - dd
-            aaaa fsafasdf [test](#0)
+            aaaa fsafasdf [test](#1)
             fsdfdsafd
             fsdfsadf
 
@@ -75,7 +75,9 @@
 > aaaa
 >>  aa
 >>>aaaaaa
+
 >aaa
+
 >>aaaa
 
 
