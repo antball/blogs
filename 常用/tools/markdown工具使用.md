@@ -1,6 +1,6 @@
 # markdown 工具使用
 
-## 1. windown系统md工具
+## 1. windown系统md工具test{#0}
 
 ### a. sublime text3 
 
@@ -38,15 +38,45 @@
 
 ## 3. markdown语法
 
+- **OmniMarkupPreviwer**：实时在浏览器中预，而MarkdownPreview是需要手动生成的和F5的。览如果双屏的话，应该具有不错的体验。快捷键如下：
+    - Ctrl+Alt+O: Preview Markup in Browser.
+    - Ctrl+Alt+X: Export Markup as HTML.
+    - Ctrl+Alt+C: Copy Markup as HTML.
+
+   
+
 [语法](http://blog.leanote.com/post/freewalk/Markdown-语法手册/)
 
 - aaa
     - bbb
     - ccc
         - dd
-            aaaa
+            aaaa fsafasdf [test](#0)
+            fsdfdsafd
+            fsdfsadf
 
+            fdsfsadf
+            fsdf
+            fsdf
+            fasd
+            ffsa
+
+            fdsfad
+
+            fsdfsdafsda
+            
             ffdsfsdaf
         - dfasdf
         - dfasd
         - ddd
+
+
+
+> aaaa
+>>  aa
+>>>aaaaaa
+>aaa
+>>aaaa
+
+
+
