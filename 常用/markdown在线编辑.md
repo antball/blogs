@@ -1,6 +1,6 @@
 https://www.zybuluo.com/mdeditor
 
-
+[markdown语法说明](http://www.appinn.com/markdown/)
 
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
