@@ -190,10 +190,43 @@ docker run -p 3306:3306
     -e MYSQL_ROOT_PASSWORD=123456
     -d mysql:5.7
 
+
+#i是交互式操作，t是一个终端，d指的是在后台运行 mysql指运行mysql镜像，bash指创建一个交互式shell
+docker run -itd -P mysql bash
+
+docker run -p 3306:3306 --name mymysql  -e MYSQL_ROOT_PASSWORD=123456 -d mysql:5.7
+
+
+
+#docker镜像的连接命令 sick_hawking是镜像的名字
+docker exec -it sick_hawking bash
+
+#查看mysql的启动状态  service mysql start
+service mysql status
+
+
+#进入终端
+mysql -uroot -p
+
+#设置root帐号的密码
+update user set authentication_string = password('root') where user = 'root';
+
+#对root进行授权
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'root' WITH GRANT OPTION;
+
+
+
+
 ```
 
 
 ###构建镜像 docker build   创建一个 Dockerfile 文件
+
+
+
+
+#nginx.conf是挂载了一个文件（docker是不推荐这样用的），conf.d挂载的是一个目录
+[Docker部署nginx并修改配置文件](http://blog.csdn.net/wangfei0904306/article/details/77623400)
 
 
 
