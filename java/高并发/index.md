@@ -30,6 +30,9 @@ https://www.cnblogs.com/taiyonghai/p/6094350.html
 https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html
 https://segmentfault.com/a/1190000012762869
 [阿里RocketMQ](https://www.cnblogs.com/antain/p/rocketmq.html)
+[RocketMQ原理解析](http://blog.csdn.net/column/details/learningrocketmq.html?&page=1)
+http://blog.csdn.net/chunlongyu/article/category/6638499
+[什么是分布式系统中的幂等性](https://www.cnblogs.com/leechenxiang/p/6626629.html)
 
 ### 柔性事务
 柔性事务是对分布式事务说的，说白了就是利用可以利用的业务弹性，打开脑洞让事务最终一致，分布式事务天然就不能一蹴而就，柔性事务是一种思想，
