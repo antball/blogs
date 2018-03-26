@@ -3,7 +3,7 @@
 [mysql生成订单编号函数](https://www.cnblogs.com/working/p/5624666.html)
 [ Mysql 存在既更新，不存在就添加（sql语句）](http://blog.csdn.net/woshihaiyong168/article/details/75082668)
 
-
+[mysql优化](http://blog.csdn.net/zhushuai1221/article/details/51740846)
 
 ### sql三范式
 

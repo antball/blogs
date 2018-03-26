@@ -15,3 +15,45 @@ http://www.importnew.com/23560.html
 
 ### java copy
 [Java 中的浅拷贝与深拷贝](http://www.oschina.net/translate/java-copy-shallow-vs-deep-in-which-you-will-swim)
+
+
+### servlet 知识
+    https://www.cnblogs.com/whgk/p/6399262.html
+
+
+
+### 线程池
+    excutor submit execute
+        Callable 与 Runnable Future和FutureTask
+        http://www.cnblogs.com/xiaoxi/p/8303574.html
+
+
+
+**学习流程
+servlet tomcat容器
+enumeration iterator collection(list set queue) map
+filter-interceptor-listener
+    https://www.cnblogs.com/xxzhuang/p/5847724.html
+    监听器Listener就是在application,session,request三个对象创建、销毁或者往其中添加修改删除属性时自动执行代码的功能组件。
+    Listener是Servlet的监听器，可以监听客户端的请求，服务端的操作等
+interceptor  HandlerInterceptorAdapter
+spring exception
+spring-session
+
+
+设计模式
+
+
+trancation threadlocal
+
+spring bean
+
+elk redis mysql jekins
+selenium
+jvisualvm jmeter
+
+**blog
+
+[all](https://blog.csdn.net/tanga842428/)
+[spring boot]http://rensanning.iteye.com/category/369076)
+[spring elk](https://yq.aliyun.com/users/1719367375016669?spm=a2c4e.11153940.blogrightarea57423.2.5c61594aeeeoE3&do=login&accounttraceid=61013d02-0aee-4fbf-8d51-7601dda492a1)
